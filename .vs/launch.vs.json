@@ -1,0 +1,30 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "name": "test3.exe II",
+      "project": "CMakeLists.txt",
+      "projectTarget": "C:\\Users\\jbohl\\CMakeBuilds\\16A6BE~1\\build\\x86-Debug\\samples\\test3.exe"
+    },
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "${buildRoot}\\samples\\test1.exe",
+      "name": "${buildRoot}\\samples\\test1.exe",
+      "args": [
+        "D:\\DEV\\GitHubCloned\\awaituv\\samples\\test1.cpp"
+      ]
+    },
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "${buildRoot}\\samples\\test2.exe",
+      "name": "${buildRoot}\\samples\\test2.exe",
+      "args": [
+        "D:\\DEV\\GitHubCloned\\awaituv\\samples\\test1.cpp"
+      ]
+    }
+  ]
+}
