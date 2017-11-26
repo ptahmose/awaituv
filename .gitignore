@@ -27,3 +27,10 @@
 *.exe
 *.out
 *.app
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/config/applicationhost.config
+/.vs/awaituv/v15/Browse.VC.opendb
+/.vs/awaituv/v15/Browse.VC.db
+/.vs/awaituv/v15/.suo
